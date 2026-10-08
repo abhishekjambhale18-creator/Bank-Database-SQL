@@ -1,4 +1,4 @@
-# 🏦 Bank Database – SQL Project
+# 🏦 Bank Database – Basic SQL Table Structure and Setup
 
 ![SQL](https://img.shields.io/badge/SQL-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
