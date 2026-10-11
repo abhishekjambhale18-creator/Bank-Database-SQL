@@ -95,4 +95,16 @@ Stores loan details.
 
 ---
 
-### 📂 Project Structure
+### 🚀 How to Run
+1. Open **MySQL Workbench** or any SQL client
+2. Run the `Bank1.sql` script
+
+---
+
+### 🧰 Tools Used
+MySQL
+
+---
+
+**Series Navigation**  
+← Previous Lab | Next Lab Coming Soon →
